@@ -1,17 +1,14 @@
 body{
-  
-}
-nav{
-  
-}
-.books{
-  
-}
-.music{
-  
+  background-color:#aaaaaa;
 }
 .name{
   font-color:black;
-  font-family:'Press Start 2P', cursive;
-  font-size:3em;
+  font-family:Helvetica,sans-serif;
+  font-size:1em;
+}
+footer{
+  
+}
+.selling_points{
+  
 }
