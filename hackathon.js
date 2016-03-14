@@ -1,5 +1,5 @@
 var add_to_page = function(item){
-	
+  $("book1.name").text(book1.name);
 }
 
 
